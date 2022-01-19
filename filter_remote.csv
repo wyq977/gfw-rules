@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising.list,永远拦截,Ad,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Advertising/Advertising_Domain.list,永远拦截,Ad,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Hijacking/Hijacking.list,永远拦截,Ad,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Telegram/Telegram.list,电报消息,Telegram,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/YouTube/YouTube.list,油管视频,Youtube,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Netflix/Netflix.list,奈飞视频,Netflix,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/GlobalMedia/GlobalMedia.listForeginMedia.list,国外媒体,ForeginMedia,true
+https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleNoChinaCDNRules.conf,苹果代理,AppleNoChinaCDN,true
+https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleAPIRules.conf,苹果代理,AppleAPIRules,true
+https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleCDNRules.conf,永远直连,AppleCDNRules,true
+https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleRules.conf,永远直连,AppleRules,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Global/Global.list,代理节点,Global,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Global/Global_Domain.list,代理节点,Global,true
