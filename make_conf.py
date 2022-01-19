@@ -94,7 +94,7 @@ class LoonConf(Conf):
         for rule in self.filter_remote:
             rule_list = rule.split(",")
             # skip ad blocking in mac
-            if rule_list[2] == "Ad" and not self.is_ios:
+            if rule_list[2] == "iPhoneOnly" and not self.is_ios:
                 continue
             filter_remote += "{}, policy={}, tag={}, enabled={}\n".format(
                 rule_list[0], rule_list[1], rule_list[2], rule_list[3]
