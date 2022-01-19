@@ -11,3 +11,5 @@ https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRe
 https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleRules.conf,永远直连,AppleRules,true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Global/Global.list,代理节点,Global,true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Global/Global_Domain.list,代理节点,Global,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaMax/ChinaMax.list,永远直连,ChinaMax,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/ChinaMax/ChinaMax_Domain.list,永远直连,ChinaMax,true
