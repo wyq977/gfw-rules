@@ -184,7 +184,7 @@ def main():
 
     if args.loon:
         loon = LoonConf(
-            "local/loon_config_ios.conf",
+            "local/loon_config.conf",
             True,
             "Loon",
             "dns.txt",
