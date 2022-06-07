@@ -3,7 +3,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Hijacking/Hijacking.list,永远拦截,iPhoneOnly,true
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Loon/SystemOTA/SystemOTA.list,永远拦截,iPhoneOnly,true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Telegram/Telegram.list,电报消息,Telegram,true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/YouTube/YouTube.list,油管视频,Youtube,true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/YouTube/YouTube.list,油管视频,YouTube,true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/Netflix/Netflix.list,奈飞视频,Netflix,true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/GlobalMedia/GlobalMedia.listForeginMedia.list,国外媒体,ForeginMedia,true
 https://raw.githubusercontent.com/dunlanl/FuGfConfig/main/ConfigFile/Loon/LoonRemoteRule/Apple/AppleNoChinaCDNRules.conf,苹果代理,AppleNoChinaCDN,true

@@ -72,7 +72,7 @@
     },
     "油管视频": {
         "mode": "select",
-        "img": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Youtube.png",
+        "img": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png",
         "policy": [
             "代理节点",
             "DIRECT"

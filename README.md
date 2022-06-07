@@ -38,7 +38,7 @@ China.list
 
 * 如若不需要观看哔哩哔哩、爱奇艺面向港澳台的限定内容可不加「DomesticMedia.list」。
 * 如若不需要代理 Apple 服务可不加「Apple.list」，若加入必须在「Global.list」和「China.list」之间。
-* 如需细化流媒体如「Youtube.list」需要加在「ForeignMedia.list」之前。
+* 如需细化流媒体如「YouTube.list」需要加在「ForeignMedia.list」之前。
 * 如需应用类的如「Telegram.list、Google.list、PayPal.list」需要加在「Global.list」之前。
 
 About Apple ID:
@@ -87,7 +87,7 @@ Loon can be installed and it runs fine with macs with Apple Silicon.
 
 [Quantumult X 不完全教程](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917)
 
-[【小白教程】10分钟搞懂分流策略 | 分流规则、策略组详解，如何DIY自己的专属分流策略，新手避坑指南！]https://w37fhy.com/archives/776
+[【小白教程】10分钟搞懂分流策略 | 分流规则、策略组详解，如何DIY自己的专属分流策略，新手避坑指南！](https://w37fhy.com/archives/776)
 
 [Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X)
 
