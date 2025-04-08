@@ -29,6 +29,10 @@
 
 ## Quantumult X
 
+[Quantumultx重写](https://whatshub.top/quantumultx)
+
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
+
 [Fanminming][fmm]: [conf](example/Qx_fmm.conf), 27c55e3
 
 [墨魚懒人配置][ddgksf2013]：[conf](example/Qx-ddgksf2013.conf), e2a5612
