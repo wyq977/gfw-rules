@@ -29,6 +29,8 @@
 
 ## Quantumult X
 
+[local js 教程](https://www.brmys.ac.cn/afde699b-f500-4f76-b775-132de8e93a1f)
+
 [Quantumultx重写](https://whatshub.top/quantumultx)
 
 https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/chongxie.txt
