@@ -27,6 +27,16 @@
 
 除了ChatGPT，目前还未有按服务区分的策略组如「苹果服务」、「油管视频」、「电报消息」等
 
+## JS
+
+Only for backup, at 2025-04-08
+
+https://raw.githubusercontent.com/androidcn/userscripts/main/QX-VVeboTimeline.js
+https://raw.githubusercontent.com/suiyuran/stash/main/scripts/fix-vvebo-fans.js
+https://raw.githubusercontent.com/bin64/Scripts/main/QuantumultX/vvebo.js
+https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaohongshu/xiaohongshu.js
+https://raw.githubusercontent.com/app2smile/rules/master/js/qidian.js
+
 ## Quantumult X
 
 [local js 教程](https://www.brmys.ac.cn/afde699b-f500-4f76-b775-132de8e93a1f)
